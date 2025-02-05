@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# bundle exec jekyll serve
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -25,7 +27,7 @@ author:
   avatar           : "Bidhan.jpg" # the image displayed in the author's profile
   name             : "Sriman Bidhan Baray"
   pronouns         : # example: "she/her"  
-  bio              : "GRA, PhD Student - Microwave Remote Sensing" # short description
+  bio              : "PhD Student | Graduate Research Assistant" # short description
   location         : "Athens, GA, USA" # city or region
   employer         : "University of Georgia" # where you work
   uri              : "https://impress.engr.uga.edu/" # URL

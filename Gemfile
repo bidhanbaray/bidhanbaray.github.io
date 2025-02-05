@@ -9,4 +9,12 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+# gem 'github-pages'
+# gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+# gem "jekyll-redirect-from"
+gem "kramdown-parser-gfm"
+# gem "webrick"
+gem 'tzinfo'
+gem 'tzinfo-data'
