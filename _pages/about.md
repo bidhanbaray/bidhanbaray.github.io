@@ -23,27 +23,31 @@ redirect_from:
 
 ## Education  
 - **PhD in Engineering** (Electrical and Computer Engineering) | *2024 - Present*  
-  - University of Georgia, Athens, GA, USA.  
+University of Georgia, Athens, GA, USA.  
 
 - **B.Sc. in Electrical and Electronic Engineering** | *2018 - 2022*  
-  - University of Dhaka, Dhaka, Bangladesh.   
+University of Dhaka, Dhaka, Bangladesh.   
 
 ## Experience  
 - **Graduate Research Assistant** | *Jan 2024 - Present*  
-  - University of Georgia, IMPRESS Lab  
-  - Research in microwave remote sensing and soil moisture estimation using UAS-based GNSS-R technology.  
+*University of Georgia, IMPRESS Lab* 
+
+Research in microwave remote sensing and soil moisture estimation using UAS-based GNSS-R technology.  
 
 - **Adjunct Lecturer** | *Jun 2023 - Nov 2023*  
-  - BRAC University, Dhaka, Bangladesh  
-  - Taught courses: Circuits and Electronics, Electronic Devices and Circuits, Digital Electronics and Pulse Techniques.  
+*BRAC University, Dhaka, Bangladesh*
+
+Taught courses: Circuits and Electronics, Electronic Devices and Circuits, Digital Electronics and Pulse Techniques.  
 
 - **Research Assistant** | *Sep 2022 - Sep 2023*  
-  - Qatar University Machine Learning Group (Remote)  
-  - Worked on carotid artery detection and penile curvature estimation using deep learning.  
+*Qatar University Machine Learning Group (Remote)* 
+
+Worked on carotid artery detection and penile curvature estimation using deep learning.  
 
 - **Part-time Engineer** | *Apr 2021 - Jan 2022*  
-  - DataSoft Manufacturing and Assembly Inc. Ltd., Dhaka, Bangladesh  
-  - Developed a prototype telemedicine system and worked with IoT sensors.  
+*DataSoft Manufacturing and Assembly Inc. Ltd., Dhaka, Bangladesh*
+
+Developed a prototype telemedicine system and worked with IoT sensors.  
 
 
 <!-- ## Awards  
@@ -65,8 +69,19 @@ Visit my GitHub: [bidhanbaray](https://github.com/bidhanbaray) to explore my pro
 - **Young Dawgs Program (2024)**: Mentored a high school student for a summer internship at the IMPRESS Lab.  
 
 ## Presentations  
-- **Conference Presentation:** *USNC-URSI National Radio Science Meeting 2025*, January 08, 2025. 
-- **Poster:** *UAV-Based GPS Reflectometry for Precision Soil Moisture Mapping - ECE Student Expo 2024*, April 18, 2024. 
+- **Conference Oral Presentation** 
+
+*(January 08, 2025)* USNC-URSI National Radio Science Meeting 2025 
+
+*(April 13, 2025)* SPIE DCS: Autonomous Air and Ground Sensing Systems for Agricultural Optimization and Phenotyping X
+
+*(August 6, 2025)* International Geoscience and Remote Sensing Symposium (IGARSS) 2025
+
+- **Poster Presentation** 
+
+*(April 18, 2024)* UAV-Based GPS Reflectometry for Precision Soil Moisture Mapping - ECE Student Expo 2024 
+
+*(May 1, 2025)* 2nd Integrative Precision Agriculture Conference 2025
 
 ## Contact  
 📧 Email: [sbbaray@uga.edu](mailto:sbbaray@uga.edu)  

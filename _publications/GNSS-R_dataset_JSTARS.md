@@ -1,0 +1,15 @@
+---
+title: "Integrating UAS-based GNSS-R, LiDAR, and Multispectral Data for Soil Moisture Estimation: Summary of Results from a Three-Year Long Field Campaign"
+collection: publications
+category: manuscripts
+# permalink: "https://ieeexplore.ieee.org/document/10251913"
+excerpt: 'M. M. Farhad, V. Senyurek, M. A. S. Rafi, **S. B. Baray**, C. McCraine, L. A. Hathcock, A. Adeli, Y. Huang, A. C. Gurbuz, and M. Kurum, “Integrating UAS-based GNSS-R, LiDAR, and Multispectral Data for Soil Moisture Estimation: Summary of Results from a Three-Year Long Field Campaign,” IEEE J. Sel. Topics Appl. Earth Observations Remote Sensing, vol. 18, pp. 16896–16915, 2025, doi: 10.1109/JSTARS.2025.3580114.'
+date: 2025-06-16
+venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11037323'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+Accurate and high-resolution soil moisture (SM) measurement is a critical component for site-specific precision agriculture (PA) management. Efficiently observing SM at high resolution on a subfield scale can enhance irrigation planning and management, leading to improved yields and product quality while also conserving environmental resources. However, obtaining such detailed SM measurements across large fields remains a significant challenge. Uncrewed aircraft systems (UASs) offer a promising solution in this regard. While microwave remote sensing via satellites has gained popularity for retrieving spatially distributed SM on regional and global scales, it falls short in delivering the high-resolution measurements needed for subfield applications. In response, this study has developed a UAS-based passive global navigation satellite system reflectometry (GNSS-R) technique to retrieve a high-resolution SM map at the subfield scale, designed for PA. This approach employs custom-made UASs equipped with a low-cost GNSS receiver and ancillary sensor systems. The experiment spans three years of data collection over 2.31 hectares of corn and cotton fields, incorporating GNSS-R, multispectral imaging, light detection and ranging, and in situ SM measurements. This article examines the impact of receiver antenna characteristics, surface factors, and GNSS constellations on GNSS-R measurements. It also identifies relevant features and normalization techniques that contribute to reliable SM estimation. The results highlight both the potential and the challenges of using UAS-based GNSS-R for accurate and reliable SM measurement in PA.
+
+Read the full article at: [Integrating UAS-based GNSS-R, LiDAR, and Multispectral Data for Soil Moisture Estimation: Summary of Results from a Three-Year Long Field Campaign](https://ieeexplore.ieee.org/abstract/document/11037323)
